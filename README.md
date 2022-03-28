@@ -14,10 +14,12 @@ This program still has minor bugs and is still subject to updates.
 
 ## Requirements
 - Python 3.0
-	Download Python on https://www.python.org/download/releases/3.0/
+
+Download Python on https://www.python.org/download/releases/3.0/
 
 - FFMPEG
-	FFMPEG download link and install guide can be found on https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+FFMPEG download link and install guide can be found on https://www.wikihow.com/Install-FFmpeg-on-Windows
 
 # Running the program
 For the program to run properly, please do not change or delete the necessary directories. With default configurations, simply put the video in /input/ folder and rename it to video.mp4, then run the program. After running the program, a console will appear and after loading for a while another screen will playback the video in ASCII. For some computers, the playback might experience [frame lag](#frame-lag). The playback will stop at the last frame of the video, so it's not frozen but it just finished playback. For now, the program can only playback once so when it's done doing playback, you can exit the playback window.
