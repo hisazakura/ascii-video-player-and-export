@@ -39,5 +39,5 @@ Export mode can be toggled on to record the playback and export it to /export/ d
 ### Frame Lag
 Frame lag is when the frames lag behind due to a process taking too long and reducing the frame rate, making them lag behind the audio. Frame lag intensity depends on processor speed.
 
-# WARNINGS!
+# WARNINGS
 Please do not exit the playback window when it's still playing as it will mess up exporting process!
