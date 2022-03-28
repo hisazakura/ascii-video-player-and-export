@@ -1,0 +1,6 @@
+# Toggle Pre-load
+# Pre-load will significantly increase load time, but will reduce frame lag
+preload: False
+# Toggle Export
+# Export into mp4 file greatly increase frame lag due to rendering
+export: True
